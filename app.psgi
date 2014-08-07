@@ -22,7 +22,6 @@ my @text = shuffle qw/
     お断りします
 /;
 
-
 get '/' => sub {
     my $c = shift;
     @text = shuffle(@text);
