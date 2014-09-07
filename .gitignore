@@ -5,6 +5,7 @@ MANIFEST
 *.old
 nytprof.out
 nytprof/
+local/
 *.db
 blib/
 pm_to_blib
